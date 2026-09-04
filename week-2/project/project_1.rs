@@ -16,7 +16,7 @@ fn main() {
 	let t:f64 = 1.00;
 
     //To find compound interest
-    let a = p * (1.0 + (r/100.00 * t)).powf(n * t);
+    let a = p * (1.0 + (r/100.00)).powf(n);
     println!("The amount is N{}", a);
     let ci = a - p;
     println!("The compound interest is N{}", ci);
