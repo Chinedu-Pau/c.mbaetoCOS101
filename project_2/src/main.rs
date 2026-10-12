@@ -19,7 +19,7 @@ fn main() {
    {
     println!("{name} will earn N1_480_000.");
    }
-   else if years_of_experience >= 28 && years_of_experience <= 29 
+   else if years_of_experience < 28  && years_of_experience >= 1 
    {
     println!("{name} will earn N1_300_000.");
    }
