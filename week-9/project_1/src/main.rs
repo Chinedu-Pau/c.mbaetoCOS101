@@ -1,6 +1,7 @@
 use std::io::Write;
 
 fn main() { 
+    
     let title  = "\nLarger,Stout,Non-Alcoholic";
     let data_1 = "\n33 Export,Legend,Maltina";
     let data_2 = "\nDesperados,Turbo King,Amstel Malta";

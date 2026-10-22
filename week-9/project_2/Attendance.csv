@@ -1,18 +1,4 @@
-
-Oluchi Mordi,ACC10211111,Accounting,300
-Adams Aliyu,ECO10110101,Economics,100
-Shania Bolade,CSC103228828,Computer,200
-Adekunle Gold,EEE11020202,Electrical,200
-Blanca Edemeh,MEE10202001,Mechanical,100
-Student Name, Oluchi Mordi,ACC10211111,Accounting,300
-Matric. Number, Adams Aliyu,ECO10110101,Economics,100
-Department, Shania Bolade,CSC103228828,Computer,200
-Level, Adekunle Gold,EEE11020202,Electrical,200
-Student Name, Oluchi Mordi,ACC10211111,Accounting,300
-Matric. Number, Adams Aliyu,ECO10110101,Economics,100
-Department, Shania Bolade,CSC103228828,Computer,200
-Level, Adekunle Gold,EEE11020202,Electrical,200
-Student Name,Matric. Number,Department,Level
+Student Name, Matric.Number, Department, Level
 Oluchi Mordi,ACC10211111,Accounting,300
 Adams Aliyu,ECO10110101,Economics,100
 Shania Bolade,CSC103228828,Computer,200
