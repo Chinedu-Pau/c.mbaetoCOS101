@@ -1,3 +1,4 @@
+//#[derive(Debug)]
 //declare a structure
 struct Employee {
     name:String,

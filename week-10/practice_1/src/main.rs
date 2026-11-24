@@ -1,11 +1,10 @@
 fn main() {
-    println!("Hello, world!");
     let v = vec![101, 250, 330, 400];
     // vector v owns the object in the heap.
 
     //only a single variable owns the heap memory at any given time
-    let v2 = v; // correction: let v2= v.clone()
-
+    let v2 = v; 
+// correction: let v2= v.clone()
 //    consider cloning the value if the performance cost is acceptable
 //  |
 //  | let v2 = v.clone();
